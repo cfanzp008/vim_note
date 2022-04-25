@@ -4,8 +4,6 @@
         "-lunr",
         "-search",
         "-sharing",
-        "todo",
-        "include-csv@^0.1.0",
         "chart",
         "splitter",
         "graph@^0.1.0",
